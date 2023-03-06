@@ -1,0 +1,247 @@
+@font-face{
+    font-family: 'Golos Text', sans-serif;
+}
+@font-face{
+    font-family: 'Pacifico', cursive;
+}
+
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0;
+    background-color: pink;
+}
+
+.Homepage {
+    height: 35px;
+    font-size: 50px;
+    color: red;
+    margin-top: 0px;
+    margin-bottom: 75px;
+    text-shadow: 2px 2px black;
+
+}
+
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    margin-top: 0px;
+    text-align: center;
+    font-display: auto;
+    background-color: lightblue;
+
+}
+
+h2 {
+    font-family: 'Golos Text', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.IceCreamShop {
+    background-color: pink;
+    margin-left: 70px;
+    margin-top: 50px;
+    margin-right: 70px;
+    height: auto;
+}
+
+.image0 {
+    float: left;
+    border-radius: 12%;
+    width: 45%;
+    height: auto;
+}
+
+.image1 {
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: auto;
+}
+
+.image2 {
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: auto;
+}
+
+.image3 {
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: auto;
+}
+
+.MenuButton {
+    font-family: 'Pacifico', cursive;
+    border: none;
+    background-color: lightblue;
+    color: white;
+    padding: 100px 200px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100px;
+    margin-left: 300px;
+    margin-top: 150px;
+    border-radius: 5%;
+}
+
+.AboutUs {
+    background-color: lightblue;
+    position: absolute;
+    bottom: 5px;
+    font-size: 25px;
+    border: 5px solid red;
+    padding: 15px;
+
+}
+
+.Menu {
+    height: 35px;
+    font-size: 50px;
+    color: red;
+    margin-top: 0px;
+    margin-bottom: 75px;
+    text-shadow: 2px 2px black;
+}
+
+.IceCreamCake {
+    text-align: center;
+    font-size: 45px;
+
+}
+
+.IceCreamSandwich {
+    text-align: center;
+    font-size: 45px;
+
+}
+
+.IceCreamBowl {
+    text-align: center;
+    font-size: 45px;
+
+}
+
+.image4 {
+    float: left;
+    border: 3px solid red;
+    display: block;
+    margin-top: 65px;
+    margin-left: 30px;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+}
+
+.TextID {
+    border: 3px solid red;
+    float: right;
+    font-size: 25px;
+    background-color: beige;
+    margin-top: 65px;
+    margin-right: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 55%
+}
+
+h4 {
+    background-color: aqua;
+    color: aqua;
+    position: absolute;
+    bottom: 440px;
+    right: 0;
+    width: 100%;
+    height: 20px;
+}
+
+h5 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: red;
+    position: absolute;
+    bottom: 400px;
+    font-size:35px;
+    right: 0;
+    width: 100%;
+    height: 10px;
+}
+
+.image5 {
+    position: absolute;
+    bottom: 90px;
+    right: 400px;
+    border: 3px solid red;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: auto;
+    width: 20%;
+    height: auto;  
+}
+.image6 {
+    position: absolute;
+    bottom: 90px;
+    left: 400px;
+    border: 3px solid red;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: auto;
+    width: 15%;
+    height: auto;
+}
+.image7 {
+    float: left;
+    border: 3px solid red;
+    display: block;
+    margin-top: 35px;
+    margin-left: 30px;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+}
+.image8 {
+    position: absolute;
+    bottom: 100px;
+    left: 400px;
+    border: 3px solid red;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: auto;
+    width: 20%;
+    height: auto;}
+
+h3{
+    font-family: 'Pacifico', cursive;
+}
+
+.homebutton{
+    font-family: 'Pacifico', cursive;
+    position: absolute;
+    border: none;
+    background-color: lightcoral;
+    color: white;
+    padding: 0px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 100%;  
+}
